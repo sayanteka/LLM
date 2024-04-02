@@ -3,3 +3,5 @@ Vector database: Stores embeddings/vectors in order to fetch queries based on se
 Features for embeddings are generated during back-propogation.
 
 Widely used vector database: chroma, weaviate, redis, faiss, pinecone.
+
+For LLM, Vector Database is a knowledgebase
