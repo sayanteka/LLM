@@ -18,3 +18,8 @@ To store 2.5M OpenAI 1536-dim vectors, the memory requirements would be 2.5M vec
 Therefore, to support the same load as the Pinecone S1 pod, you would need at least a 16 GB RAM machine for ChromaDB. Pricing for chromadb will be more compared to s1 pod.
 
 For local testing/prototyping, we can go on using chromadb
+
+FAISS is also open source. 
+
+Chroma DB is an open-source embedding (vector) database, designed to provide efficient, scalable, and flexible ways to store and search embeddings. 
+Faiss DB, on the other hand, is an open-source library for efficient similarity search and clustering(nearest neighbour) of dense vectors
